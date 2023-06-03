@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6289603792741@s.whatsapp.net","6289525772874@s.whatsapp.net"],
+    "ownerName": "༄ᶜZull - Modz☆࿐",
+    "instagram" : "https://instagram.com/ㅤㅤ",
+    "gcwa" : "https://instabio.cc/ㅤㅤ",
+    "botName": "༄ᶜ𝑳𝒂𝒕𝒊𝒏𝒂 - 𝑩𝒐𝒐𝑻𝒛☆࿐ ",
+    "footer": "2023 © ༄ᶜZull - Modz☆࿐",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "zE6P4zv9yciV4S5",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
